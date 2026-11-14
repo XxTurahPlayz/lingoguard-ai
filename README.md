@@ -10,7 +10,7 @@ LingoGuard AI identifies four languages:
 
 ## 🚀 Live Demo
 
-[**Try LingoGuard AI**][(https://f6cf044eec5c8c0886.gradio.live/)]
+[**Try LingoGuard AI**](https://177b432ff724adb4c3.gradio.live/)
 
 ## 📌 How It Works
 
@@ -132,5 +132,5 @@ Built for the **Veritas AI International High School Hackathon 2026**, under the
 
 - **GitHub Repository:** https://github.com/XxTurahPlayz/lingoguard-ai
 - **Google Colab Notebook:** [LingoGuard_AI_Hackathon_2026.ipynb](https://github.com/XxTurahPlayz/lingoguard-ai/blob/main/LingoGuard_AI_Hackathon_2026.ipynb)
-- **Live Demo:** https://f6cf044eec5c8c0886.gradio.live/
+- **Live Demo:** https://177b432ff724adb4c3.gradio.live/
 
