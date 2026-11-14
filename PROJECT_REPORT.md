@@ -111,6 +111,6 @@ The system currently supports only four languages. Its performance on code-mixed
 
 **Notebook:** LingoGuard_AI_Hackathon_2026.ipynb
 
-**Demo:** [Add your current Gradio demo link here.](https://f6cf044eec5c8c0886.gradio.live)
+**Demo:** (https://f6cf044eec5c8c0886.gradio.live)
 
 **Participant:** I GUSTI NGURAH GANESHA KRISHNA
